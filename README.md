@@ -1,5 +1,5 @@
- Video source and owner: https://github.com/AntonioErdeljac | 
- https://youtu.be/pRybm9lXW2c?si=sDiSwqId2pkbr0gv
+ Video source and owner: [Antonio](https://github.com/AntonioErdeljac) | 
+ [YouTube Antonio](https://youtu.be/pRybm9lXW2c?si=sDiSwqId2pkbr0gv)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
